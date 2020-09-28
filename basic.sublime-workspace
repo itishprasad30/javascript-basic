@@ -1,0 +1,333 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sahoo",
+				"sahoo"
+			],
+			[
+				"pintu",
+				"pintu"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"ec",
+				"echo\techo \"…\""
+			],
+			[
+				"st",
+				"string.h\tstandard header"
+			],
+			[
+				"i",
+				"include"
+			],
+			[
+				"b",
+				"buttomclick"
+			],
+			[
+				"win",
+				"windowop"
+			],
+			[
+				"in",
+				"invoking"
+			],
+			[
+				"c",
+				"constuctor"
+			],
+			[
+				"a",
+				"acal"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pa",
+				"parseInt"
+			],
+			[
+				"w",
+				"weight"
+			],
+			[
+				"pr",
+				"parseInt"
+			],
+			[
+				"ans",
+				"answer"
+			],
+			[
+				"nu",
+				"number"
+			],
+			[
+				"if",
+				"ife\tif … else"
+			],
+			[
+				"p",
+				"pintu"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"lo",
+				"logout"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"bo",
+				"button\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"se",
+				"session_destroy"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"password",
+				"password_1"
+			],
+			[
+				"mysql",
+				"mysql_connect"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"fo",
+				"form\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/TEST/array.php",
+		"/C/Users/ITISH PRASAD/java program/pintu12.java",
+		"/C/Users/ITISH PRASAD/Visual stdio Ex/javaScriptEx/result.js",
+		"/C/Users/ITISH PRASAD/Visual stdio Ex/Html and css/style.css",
+		"/C/Users/ITISH PRASAD/HTML/JAVASCRIPT EX/bom.js",
+		"/C/Users/ITISH PRASAD/HTML/JAVASCRIPT EX/BOM_object.js",
+		"/C/Users/ITISH PRASAD/HTML/javaScript EX",
+		"/C/Users/ITISH PRASAD/HTML/datatype.js",
+		"/C/Users/ITISH PRASAD/HTML/demo1.html",
+		"/C/Users/ITISH PRASAD/HTML/dynamic.js",
+		"/C/Users/ITISH PRASAD/HTML/subline ex",
+		"/C/xampp/htdocs/Demo/registration.php",
+		"/C/xampp/htdocs/Demo/login.php",
+		"/C/xampp/htdocs/Demo/server.php",
+		"/C/xampp/htdocs/Demo/index.php",
+		"/C/xampp/htdocs/Demo/errors.php",
+		"/C/Users/ITISH PRASAD/index.html/index,html"
+	],
+	"find":
+	{
+		"height": 59.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 59.0
+	},
+	"input":
+	{
+		"height": 140.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "basic.sublime-project",
+	"replace":
+	{
+		"height": 114.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 133.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
